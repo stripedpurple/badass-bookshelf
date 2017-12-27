@@ -5,7 +5,7 @@ let db = require('level')('/opt/dev/db/bookshelfdb');
 
 /* GET home page. */
 router.get('/', (req, res) => {
-  res.render('index');
+  res.render('index', {title: "Home | Textbook Bay"});
 });
 
 // Gets Books

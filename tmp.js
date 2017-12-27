@@ -239,7 +239,6 @@ let tmpBooks = [
         "download_mobi": "https://s3-us-west-1.amazonaws.com/f-society/CreateSpace.The.Hacker.Playbook.2.Practical.Guide.To.Penetration.Testing.1512214566.mobi"
     },
     {
-        "comments": "true",
         title: "Hacking: The Art of Exploitation, 2nd Edition",
         author: "Jon Erickson",
         publisher: "No Starch Press",
